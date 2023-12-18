@@ -3,7 +3,7 @@
 
 Hi!
 
-I am in my fourth year of a master's degree in robotics.
+
 I use GitHub primarily for fun and as a cloud service for my code used in courses. 
 
 <br /><br />

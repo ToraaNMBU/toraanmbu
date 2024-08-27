@@ -1,15 +1,15 @@
-<h3 align="center">Student at the University of Life Sciences</h3>
+<h3 align="center">Previous Student at the University of Life Sciences</h3>
 </p>
 
 Hi!
 
 
-I use GitHub primarily for fun and as a cloud service for my code used in courses. 
+Here i store dotfiles, try not to leak secret API keys.
 
-<br /><br />
-<div id="header" align="center">
-  <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" width="300"/>
-</div>
+
+<h2 allign"left"> Master thesis:</h2>
+Brage NMBU: https://hdl.handle.net/11250/3147965
+<br />
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,8 +24,7 @@ I use GitHub primarily for fun and as a cloud service for my code used in course
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://learn.microsoft.com/en-us/minecraft/creator/documents/redstoneguide" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/minecraft/images/a/af/Redstone_Dust.png/revision/latest?cb=20200826004502" alt="redstone" width="40" height="40"/> </a> 
+
 </p>
 
 <br />
